@@ -1,7 +1,7 @@
-$i = 360
+$i = 460
 
 while ($i -gt 0) {
     Write-Host $i
-    Start-Sleep -Seconds 360
+    Start-Sleep -Seconds 460
     $i--
 }
